@@ -7,6 +7,8 @@ a bad idea from the mind of [izzy kestrel](https://twitter.com/iznaut), inspired
 
 ![The tweet](.godot_ignore/the_tweet.png)
 
+Emilia changed this to generate a PR!!
+
 # about
 this is (at least to start), a simple 2D platformer game made with Godot Engine. it exists for all to enjoy - not only as players, but also as Game Developers.
 
