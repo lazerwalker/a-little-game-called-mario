@@ -3,8 +3,14 @@
 
 name: test and deploy pull requests
 
-on: pull_request
-
+on:
+  pull_request:
+    paths: 
+      - 'scenes/**'
+      - 'sfx/**'
+      - sprites/**
+      - export_presets.cfg
+      - .project.godot
 jobs:
   build_game:
     runs-on: ubuntu-latest
