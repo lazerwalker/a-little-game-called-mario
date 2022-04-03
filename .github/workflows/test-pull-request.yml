@@ -8,6 +8,7 @@ on:
     paths: 
       - 'scenes/**'
       - 'sfx/**'
+      - 'scripts/**'
       - sprites/**
       - export_presets.cfg
       - .project.godot
