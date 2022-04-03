@@ -5,7 +5,6 @@ name: test and deploy pull requests
 
 on:
   pull_request:
-    types: [opened, edited, synchronized, reopened]
     paths: 
       - 'scenes/**'
       - 'sfx/**'
