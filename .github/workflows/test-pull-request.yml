@@ -3,9 +3,7 @@
 
 name: test and deploy pull requests
 
-on:
-  pull_request:
-    types: [opened, edited, synchronized]
+on: pull_request
 
 jobs:
   build_game:
