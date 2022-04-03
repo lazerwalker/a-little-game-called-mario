@@ -11,6 +11,7 @@ on:
       - sprites/**
       - export_presets.cfg
       - .project.godot
+
 jobs:
   build_game:
     runs-on: ubuntu-latest
